@@ -1,1 +1,3 @@
-This is a Amazon webpage created using HTML and CSS.
+A Amazon webpage created using HTML and CSS.
+Mobile app portfolio created using Lunacy software.
+
